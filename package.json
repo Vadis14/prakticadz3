@@ -1,0 +1,21 @@
+{
+  "name": "dz3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "tsc && vite build",
+  "server": "json-server --watch db.json --port 3000"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.0"
+  }
+  
+  
+}

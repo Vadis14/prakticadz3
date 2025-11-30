@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Первая задача",
+      "description": "Описание первой задачи",
+      "completed": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2025-11-29T14:27:10.815Z",
+      "isUpdated": true
+    },
+    {
+      "id": "2",
+      "title": "Вторая задача",
+      "description": "Описание второй задачи",
+      "completed": true,
+      "createdAt": "2024-01-02T00:00:00.000Z",
+      "updatedAt": "2025-11-29T14:27:10.039Z",
+      "isUpdated": true
+    },
+    {
+      "id": "0c40",
+      "title": "3",
+      "description": "12",
+      "completed": true,
+      "createdAt": "2025-11-20T11:09:18.564Z",
+      "updatedAt": "2025-11-29T14:30:50.638Z",
+      "isUpdated": true
+    }
+  ]
+}
